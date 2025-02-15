@@ -1,6 +1,6 @@
 Hi, I’m @Evolyzer
 
-I’m currently learning C#.
+I’m currently learning C#, specifically AvaloniaUI.
 
 
 <!---
